@@ -76,7 +76,7 @@ GET http://localhost:5000/api/topics?search=calc&sort=name
 ## 🎥 Demo Video
 
 A short walkthrough explanation video (demo.mp4) is included in the repository, demonstrating setup, usage, and code highlights.  
-You can also [view the video online](YOUR_VIDEO_LINK_HERE) if uploaded.
+You can also [view the video online]([YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1pHyO3U56eoPw-K0kcSrfksU4mKjlqaXN/view?usp=sharing)) if uploaded.
 
 ---
 
